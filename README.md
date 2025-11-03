@@ -1,4 +1,4 @@
-# tugasutsmachinelearning
+# tugas uts machine learning
 
 - Mata Kuliah: Machine Learning
 - Program Studi: Teknik Informatika
